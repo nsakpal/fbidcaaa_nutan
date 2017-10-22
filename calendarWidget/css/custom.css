@@ -1,0 +1,49 @@
+
+/* 
+    Created on : Oct 12, 2017, 10:28:23 PM
+    Author     : Nutan Sakpal
+*/
+/*body
+{
+    background-image: url(banner.png);
+    //background-position: top;
+    //background-repeat: no-repeat;
+    //background-size: cover;
+    background-blend-mode: hard-light;
+    height: 50px;
+}*/
+.nav{
+    max-height: 300px;
+    overflow-y:scroll; 
+}
+.reduce{
+    font-size: 20px;
+}
+.modal-backdrop {
+  z-index: -1;
+}
+
+.eventDetailsClass{
+    max-height: 200px;
+    overflow-y:scroll;
+    
+}
+a{
+    color: white;
+}
+a:hover {
+    color: red;
+}
+.modal-content{
+    background-color: #F0F0F0;
+    color:black;
+}
+body{
+    background: url("/banner.png");
+     color: white;
+    background-blend-mode: hard-light;
+
+
+}
+
+
